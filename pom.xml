@@ -11,6 +11,8 @@
 
     <modules>
         <module>wild-hello</module>
+        <module>monkeys</module>
+        <module>wild-domain</module>
     </modules>
 
     <properties>
@@ -30,7 +32,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
 
 
 </project>
