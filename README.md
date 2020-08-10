@@ -11,6 +11,7 @@ founding.
 
 Technological aspects:
    - micro-services architecture based on wildfly swarm and micro profile
+       * run individual modules via mvn plugin
    - testing via arquilian, wiremock, mockito
    - containerisation
    - health checks
@@ -18,3 +19,6 @@ Technological aspects:
    - api gateway
    - security via jwt tokens
    - metrics for scaling deployments
+
+Requires:
+   java and maven already installed
